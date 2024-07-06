@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-**📚 Tech Stack** </br>
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### 📚 Tech Stack
+<div>
+  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+</div>
 
 <!--
 **mushroom528/mushroom528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
