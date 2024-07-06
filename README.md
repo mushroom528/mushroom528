@@ -1,6 +1,8 @@
 ## Hi there 👋
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmushroom528&count_bg=%234AAFE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></br>
+![HyoKwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushroom528&show_icons=true&theme=transparent)
 
-### 📚 Tech Stack
+### 📚 Skils
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -18,6 +20,10 @@
 </div>
 
 ### 📝 Certificate
+<div>
+  <img src="https://github.com/mushroom528/mushroom528/assets/49677739/716516fe-f96f-46e6-9b9e-23ac12732d8c" style="width: 300px; height= 300px;" />
+  <img src="https://github.com/mushroom528/mushroom528/assets/49677739/4215d638-9481-4fe1-ad08-4c3404f2a2c7" style="width: 300px; height= 300px;" />
+</div>
 
 <!--
 **mushroom528/mushroom528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
