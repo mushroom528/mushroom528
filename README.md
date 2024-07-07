@@ -21,8 +21,8 @@
 
 ### 📝 Certificate
 <div>
-  <img src="https://github.com/mushroom528/mushroom528/assets/49677739/716516fe-f96f-46e6-9b9e-23ac12732d8c" style="width: 300px; height= 300px;" />
-  <img src="https://github.com/mushroom528/mushroom528/assets/49677739/4215d638-9481-4fe1-ad08-4c3404f2a2c7" style="width: 300px; height= 300px;" />
+  <img src="https://github.com/mushroom528/mushroom528/assets/49677739/716516fe-f96f-46e6-9b9e-23ac12732d8c" style="width: 150px; height= 150px;" />
+  <img src="https://github.com/mushroom528/mushroom528/assets/49677739/4215d638-9481-4fe1-ad08-4c3404f2a2c7" style="width: 150px; height= 150px;" />
 </div>
 
 <!--
