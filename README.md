@@ -1,6 +1,5 @@
-<h1 align="center">🌱 About ME 🌱</h1>
+
   <h3>👋 Hi! There!</h3>
-  <h3>👨‍💻 <b>I'm Back-End Developer</b> 👨‍💻</h3></br>
 <!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hyokwon's%20Github🍄&fontSize=70"&fontColor=FFFFFF>  
